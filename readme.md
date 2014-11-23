@@ -15,5 +15,5 @@ Code will auto download the data and create the appropiate steps as per the proj
 
 ##Notes
 New files will be created namely:
-1. tidy_data.txt - the tidy data that was required as an output of the file
-2. UCI HAR Dataset folder - folder of the unzipped files that are used fo rthis project
+* tidy_data.txt - the tidy data that was required as an output of the file
+* UCI HAR Dataset folder - folder of the unzipped files that are used fo rthis project
