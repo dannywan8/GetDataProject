@@ -5,9 +5,13 @@ output: html_document
 
 # Data Input
 
+```
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+```
 
-```{r}
-summary(cars)
+# Additional column definition
+```
+Subject - Subject ID
+Activity - Acitivity that the subject was conducting while the data was recorded
 ```
